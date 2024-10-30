@@ -1,4 +1,4 @@
-# NFL Stats Predictor
+# NFL Machine Learning Stats Predictor
 
 The **NFL Stats Predictor** application is designed to fetch weekly NFL offensive player stats and make predictions for the next week using machine learning. This application utilizes `customtkinter` for a modern interface, displaying weekly player stats and predictions in Excel format.
 
