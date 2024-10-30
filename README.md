@@ -43,6 +43,9 @@ The data will be saved as an Excel file with player stats for the selected weeks
 
 ## Screenshots
 
+### Main Application Interface
+![ML Interface](Images/interface.png) 
+
 ### Example 1: Stats Excel Sheet 
 ![ML Excel Stats Screenshot](Images/off_stats.png) 
 
